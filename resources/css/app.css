@@ -1,0 +1,21 @@
+.error {
+    color: red;
+}
+
+.imageSize {
+    height: 100px;
+    width: 150px;
+}
+
+.hide {
+    display: none;
+}
+
+#showImage {
+    height: 200px;
+    width: 300px;
+}
+
+#success-alert {
+    color: green;
+}
